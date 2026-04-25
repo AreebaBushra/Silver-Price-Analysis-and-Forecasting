@@ -10,7 +10,7 @@
 
 ## 📌 Overview
 
-This project explores 10 years of silver futures price data through comprehensive exploratory data analysis and technical indicator study. Rather than focusing on price prediction, the goal is to deeply understand silver's price behavior, volatility patterns, seasonal trends, and the real-world market forces driving its movements in 2024–2026.
+This project explores 10 years of silver futures price data (2016–2026) fetched live from Yahoo Finance. It covers price trends, moving averages, volatility patterns, momentum indicators (RSI & MACD), monthly seasonality, and the real-world factors driving silver's market movements in 2024–2026. Built with AI assistance as a learning project — exploring financial data analysis and technical indicator
 
 ---
 
@@ -92,6 +92,4 @@ Based on market research conducted as part of this analysis:
 ---
 
 
-**Areeba Bushra**  
-*Data Science & AI Enthusiast*  
-📍 Pakistan
+
